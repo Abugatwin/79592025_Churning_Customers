@@ -3,7 +3,7 @@
 
 ## Project Description
 
-The Customer Churn Prediction App is a web-based application that predicts the likelihood of a customer churning givensomesetofacustomerprofiledetails.This application employs a machine learning model, based on the Keras library, to provide valuable insights for customer retention strategies.
+The Customer Churn Prediction App is a web-based application that predicts the likelihood of a customer churning given some customer profile details. This application employs a machine learning model based on the Keras library to provide valuable insights for customer retention strategies.
 
 ## Functionality
 
